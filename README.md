@@ -3,18 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wugouzi&layout=compact&count_private=true&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 677.4 kB Used in GitHub's Storage 
- > 
-> 🏆 63 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -30,20 +18,8 @@ Emacs                    38 hrs 55 mins      ███████████�
 VS Code                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 
-**I Mostly Code in C++** 
 
-```text
-C++                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Rust                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TeX                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-
- Last Updated on 18/05/2023 14:27:32 UTC
+ Last Updated on 18/05/2023 14:30:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
