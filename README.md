@@ -3,20 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wugouzi&layout=compact&count_private=true&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-C++                      1 hr 6 mins         █████████████████████████   98.73 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-
-🔥 Editors: 
-CLion                    1 hr 7 mins         █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 11/12/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
