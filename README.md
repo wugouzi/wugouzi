@@ -7,15 +7,14 @@
 
 ```text
 💬 Programming Languages: 
-C++                      42 mins             ████████████████░░░░░░░░░   64.24 % 
-Go                       23 mins             █████████░░░░░░░░░░░░░░░░   35.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2024 18:43:12 UTC
+ Last Updated on 08/10/2024 18:42:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
